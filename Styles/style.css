@@ -3,17 +3,17 @@ h1{
     font-size: 50px;
 } 
 
-img{
-    height: 400px;
-    margin-left: 200px;
+#ione{
+    height: 500px;
+    margin-left: 350px;
     margin-top: 50px;
-    width: 700px;
+    width: 1000px;
 } 
 
 .done{
     height: 400px;
-    margin-left: 200px;
-    margin-top: 100px;
+    margin-left: 350px;
+    margin-top: 150px;
     width: 700px;
 } 
 
@@ -24,4 +24,9 @@ h2{
 
 p{
     font-size: 20px;
+} 
+
+#itwo{
+    height: 350px;
+    width: 600px;
 }
